@@ -1,4 +1,4 @@
-# Expenses APP
+# Expenses React APP
 
 Using React, TypeScript Material-UI and React Router, a
 Simplified personal expense management application. In this work, the
