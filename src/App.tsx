@@ -1,5 +1,9 @@
 import React from 'react';
 import './App.css';
+import { monthList, yearList } from './backend/db';
+
+yearList()
+monthList()
 
 function App() {
   return (
